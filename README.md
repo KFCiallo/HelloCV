@@ -31,3 +31,15 @@ SSH公钥：按照网页中的提示，win+x键呼出了powershell界面，用ss
 （1）Linux 学习与实践记录：https://www.yuque.com/g/kfciallo/hkvdie/ipmrz62h46f043vc/collaborator/join?token=dDvIqU6aV810aFjF&source=doc_collaborator# 《LINUX学习与实践记录》
 (2)GIT学习记录:https://www.yuque.com/g/kfciallo/hkvdie/ghde9vrval6n8tz2/collaborator/join?token=HhodKanUQvVvZnf6&source=doc_collaborator# 《GIT学习记录》
 (3)GIT仓库创建与计算器开发:https://www.yuque.com/g/kfciallo/hkvdie/nfxufcelpzrnhhe5/collaborator/join?token=R9TNRzGj93zIs8Hx&source=doc_collaborator# 《GIT仓库创建与计算器开发》
+
+
+这是第二次任务的文档。
+
+
+
+LLM实践任务：https://www.yuque.com/g/kfciallo/hkvdie/ugsx4zp2i767rzq7/collaborator/join?token=hHG1SeJFFUboyOzK&source=doc_collaborator# 《LLM实践任务》
+CMake学习任务：https://www.yuque.com/g/kfciallo/hkvdie/eyxeh39r3b5nwtzr/collaborator/join?token=kZ0nIgz24eo6z3OV&source=doc_collaborator# 《CMake学习内容》
+CMake实践任务：https://www.yuque.com/g/kfciallo/hkvdie/fptfhqlsqhsk52zs/collaborator/join?token=JoXFUdsYftcVDsLW&source=doc_collaborator# 《CMake实践内容》
+
+
+对不起，时间匆忙没有按照要求构建结构，这里只给出了语雀文档。
